@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Picture of thumbs Up](https://f0.pngfuel.com/png/543/680/person-thumbs-up-png-clip-art.png)
